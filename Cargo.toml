@@ -1,0 +1,8 @@
+[package]
+name = "music_sync"
+version = "0.1.0"
+authors = ["Theron Tjapkes <theron@zmagnet.com>"]
+
+[dependencies]
+glob = "0.2"
+yaml-rust = "0.4"
